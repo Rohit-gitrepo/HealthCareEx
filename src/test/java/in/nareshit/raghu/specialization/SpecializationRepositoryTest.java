@@ -32,7 +32,7 @@ public class SpecializationRepositoryTest {
 	/**
 	 * 1.Test save operation
 	 */
-	@Disabled
+	
 	@Test
 	@Order(1)
 	public void testSpecCreate() {
@@ -46,7 +46,7 @@ public class SpecializationRepositoryTest {
 	/**
 	 * 2.Test Display All Operation
 	 */
-	 
+	    @Disabled
 		@Test
 		@Order(2)
 		public void testSpecFetchAll() {
